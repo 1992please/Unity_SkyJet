@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: f996b5eea2d61024c956108e10471ea1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Ball
+    100002: //RootNode
+    100004: Left
+    100006: Main_Farme
+    100008: Main_Frame
+    100010: Middle
+    100012: Middle 1
+    100014: pCube10
+    100016: pCube11
+    100018: pCube12
+    100020: pCube13
+    100022: pCube4
+    100024: pCube4 1
+    100026: pCube5
+    100028: pCube6
+    100030: pCube7
+    100032: pCube8
+    100034: pCube8 1
+    100036: pCube9
+    100038: pSphere10
+    100040: pSphere11
+    100042: pSphere12
+    100044: pSphere13
+    100046: pSphere14
+    100048: pSphere15
+    100050: pSphere8
+    100052: pSphere9
+    100054: Right
+    400000: Ball
+    400002: //RootNode
+    400004: Left
+    400006: Main_Farme
+    400008: Main_Frame
+    400010: Middle
+    400012: Middle 1
+    400014: pCube10
+    400016: pCube11
+    400018: pCube12
+    400020: pCube13
+    400022: pCube4
+    400024: pCube4 1
+    400026: pCube5
+    400028: pCube6
+    400030: pCube7
+    400032: pCube8
+    400034: pCube8 1
+    400036: pCube9
+    400038: pSphere10
+    400040: pSphere11
+    400042: pSphere12
+    400044: pSphere13
+    400046: pSphere14
+    400048: pSphere15
+    400050: pSphere8
+    400052: pSphere9
+    400054: Right
+    2300000: Ball
+    2300002: Main_Farme
+    2300004: Main_Frame
+    2300006: Middle 1
+    2300008: pCube10
+    2300010: pCube11
+    2300012: pCube12
+    2300014: pCube13
+    2300016: pCube4
+    2300018: pCube4 1
+    2300020: pCube5
+    2300022: pCube6
+    2300024: pCube7
+    2300026: pCube8
+    2300028: pCube8 1
+    2300030: pCube9
+    2300032: pSphere10
+    2300034: pSphere11
+    2300036: pSphere12
+    2300038: pSphere13
+    2300040: pSphere14
+    2300042: pSphere15
+    2300044: pSphere8
+    2300046: pSphere9
+    3300000: Ball
+    3300002: Main_Farme
+    3300004: Main_Frame
+    3300006: Middle 1
+    3300008: pCube10
+    3300010: pCube11
+    3300012: pCube12
+    3300014: pCube13
+    3300016: pCube4
+    3300018: pCube4 1
+    3300020: pCube5
+    3300022: pCube6
+    3300024: pCube7
+    3300026: pCube8
+    3300028: pCube8 1
+    3300030: pCube9
+    3300032: pSphere10
+    3300034: pSphere11
+    3300036: pSphere12
+    3300038: pSphere13
+    3300040: pSphere14
+    3300042: pSphere15
+    3300044: pSphere8
+    3300046: pSphere9
+    4300000: Middle
+    4300002: pCube8
+    4300004: pCube4
+    4300006: Ball
+    4300008: pSphere12
+    4300010: pSphere13
+    4300012: pSphere14
+    4300014: pSphere15
+    4300016: pCube9
+    4300018: pCube10
+    4300020: pCube11
+    4300022: pCube12
+    4300024: pCube13
+    4300026: Main_Farme
+    4300028: Main_Frame
+    4300030: pSphere11
+    4300032: pSphere10
+    4300034: pSphere9
+    4300036: pSphere8
+    4300038: pCube8
+    4300040: pCube7
+    4300042: pCube6
+    4300044: pCube5
+    4300046: pCube4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

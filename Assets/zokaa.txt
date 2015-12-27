@@ -1,0 +1,10 @@
+RightScore
+Winner
+HighestScore
+BestPlayer
+SV
+SFV
+WhitePlayerScore
+BlackPlayerScore
+BlackName
+WhiteName

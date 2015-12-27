@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: e02730a57764b464b8cde19141d23b03
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: fram_fan_white
+    100002: pCylinder2
+    100004: pPlane7
+    100006: pPlane8
+    100008: pPlane9
+    100010: //RootNode
+    100012: White_ball
+    100014: White_Ball 1
+    400000: fram_fan_white
+    400002: pCylinder2
+    400004: pPlane7
+    400006: pPlane8
+    400008: pPlane9
+    400010: //RootNode
+    400012: White_ball
+    400014: White_Ball 1
+    2300000: fram_fan_white
+    2300002: pCylinder2
+    2300004: pPlane7
+    2300006: pPlane8
+    2300008: pPlane9
+    2300010: White_ball
+    3300000: fram_fan_white
+    3300002: pCylinder2
+    3300004: pPlane7
+    3300006: pPlane8
+    3300008: pPlane9
+    3300010: White_ball
+    4300000: pPlane7
+    4300002: pPlane8
+    4300004: pPlane9
+    4300006: White_ball
+    4300008: fram_fan_white
+    4300010: pCylinder2
+    7400000: idle
+    7400002: rotateRight
+    7400004: rotateLeft
+    7400006: rotateRightFinish
+    7400008: rotateLeftFinish
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: White_Ball 1
+        weight: 1
+      - path: White_Ball 1/fram_fan_white
+        weight: 1
+      - path: White_Ball 1/pCylinder2
+        weight: 1
+      - path: White_Ball 1/pPlane7
+        weight: 1
+      - path: White_Ball 1/pPlane8
+        weight: 1
+      - path: White_Ball 1/pPlane9
+        weight: 1
+      - path: White_Ball 1/White_ball
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: rotateRight
+      takeName: Take 001
+      firstFrame: 24
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: White_Ball 1
+        weight: 1
+      - path: White_Ball 1/fram_fan_white
+        weight: 1
+      - path: White_Ball 1/pCylinder2
+        weight: 1
+      - path: White_Ball 1/pPlane7
+        weight: 1
+      - path: White_Ball 1/pPlane8
+        weight: 1
+      - path: White_Ball 1/pPlane9
+        weight: 1
+      - path: White_Ball 1/White_ball
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: rotateLeft
+      takeName: Take 001
+      firstFrame: 44
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: White_Ball 1
+        weight: 1
+      - path: White_Ball 1/fram_fan_white
+        weight: 1
+      - path: White_Ball 1/pCylinder2
+        weight: 1
+      - path: White_Ball 1/pPlane7
+        weight: 1
+      - path: White_Ball 1/pPlane8
+        weight: 1
+      - path: White_Ball 1/pPlane9
+        weight: 1
+      - path: White_Ball 1/White_ball
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: rotateRightFinish
+      takeName: Take 001
+      firstFrame: 34
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: White_Ball 1
+        weight: 1
+      - path: White_Ball 1/fram_fan_white
+        weight: 1
+      - path: White_Ball 1/pCylinder2
+        weight: 1
+      - path: White_Ball 1/pPlane7
+        weight: 1
+      - path: White_Ball 1/pPlane8
+        weight: 1
+      - path: White_Ball 1/pPlane9
+        weight: 1
+      - path: White_Ball 1/White_ball
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: rotateLeftFinish
+      takeName: Take 001
+      firstFrame: 54
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: White_Ball 1
+        weight: 1
+      - path: White_Ball 1/fram_fan_white
+        weight: 1
+      - path: White_Ball 1/pCylinder2
+        weight: 1
+      - path: White_Ball 1/pPlane7
+        weight: 1
+      - path: White_Ball 1/pPlane8
+        weight: 1
+      - path: White_Ball 1/pPlane9
+        weight: 1
+      - path: White_Ball 1/White_ball
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .699999988
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
